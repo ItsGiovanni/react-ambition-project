@@ -7,7 +7,7 @@
 4. Navigeer in Command Prompt naar de repository
 5. In deze repository installeer jQuery en font-awesome door de volgende commands te runnen:
     * _npm install jquery_
-    * _npm install --save font-awesome_
+    * _npm install font-awesome_
 6. Start de applicatie op lokale server 
    * _npm start_
 
